@@ -1,0 +1,8 @@
+- Problem statement: Create a simple tool to evaluate sleep quality based on user input of sleep hours and disturbances.
+- Scope of the project: Focuses on personal sleep self-assessment through command-line interaction with direct feedback.
+- Target users: Students, working professionals, and anyone interested in monitoring or improving their sleep habits.
+- High-level features: 
+    - Input for sleep hours and disturbance
+    - Assessment of sleep duration
+    - Evaluation of disturbance presence
+    - Output of sleep quality category and suggestions
